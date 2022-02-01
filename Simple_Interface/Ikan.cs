@@ -4,7 +4,12 @@ using System.Text;
 
 namespace Simple_Interface
 {
-    class Ikan
+    class Ikan 
     {
+        public void caraMakan()
+        {
+            Console.WriteLine("digoreng, dibakar");
+
+        }
     }
 }

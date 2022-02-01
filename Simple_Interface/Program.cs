@@ -6,7 +6,10 @@ namespace Simple_Interface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Ikan ikn = new Ikan();
+
+            ikn.caraMakan();
+
         }
     }
 }

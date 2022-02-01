@@ -13,7 +13,7 @@ namespace Simple_Interface
         }
         public void Menerkam()
         {
-            Console.WriteLine("Elang suka nerkam lawan pake kaki-nya");
+            Console.WriteLine("Elang nerkam lawan pake kaki-nya");
         }
         public void Memakan()
         {
